@@ -11,5 +11,5 @@ npm run dev
 ```
 
 ## Preview the App
-[Preview the application on CodeSandbox to observe its functionality firsthand](https://codesandbox.io/p/github/weishenho/map-out-of-view-marker-indicator/main)
+[Preview the application on CodeSandbox to observe its functionality firsthand](https://codesandbox.io/p/github/weishenho/Map-out-of-view-marker-indicator/main)\
 Simply move/pan the map till the marker is no longer visible.
