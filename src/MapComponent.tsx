@@ -1,6 +1,8 @@
 import { Marker, useMapEvents } from "react-leaflet";
 import { useMemo, useRef, useState } from "react";
-import { lineIntersect, lineString, point, bearing } from "@turf/turf";
+import lineIntersect from "@turf/line-intersect";
+import bearing from "@turf/bearing";
+import { lineString, point } from "@turf/helpers";
 import {
   type Marker as MarkerType,
   type LatLngLiteral,
